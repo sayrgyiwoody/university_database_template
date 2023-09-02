@@ -14,7 +14,8 @@ I remade a template that contains the original data from db-book.com to insert e
 
 1. Clone the whole repo or a single file as you wish.
 2. Open the sql script in your mysql work bench
-3. Run Create_Template.sql first and then Insert_Template.sql (if you haven't already created university database you can remove the drop database line in create)
+3. Run Create_Template.sql first and then Insert_Template.sql
+   (if you haven't already created university database , you can remove the drop database line in create)
 4. Here we go , now you have univerisity databases tables including example datas to test
 
 # <h3>Contribution</h3>
