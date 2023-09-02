@@ -13,9 +13,9 @@ I remade a template that contains the original data from db-book.com to insert e
 # <h3>Usage</h3>
 
 1. Clone the whole repo or a single file as you wish.
-2. Open the exercise files directly with its chapter and check for answers.
-3. Create a fork or Star this repo to view later.
-4. In the Exam folder , you can see all tutorial and lab test answers 
+2. Open the sql script in your mysql work bench
+3. Run the scripts
+4. Here we go , now you have univerisity databases tables including example datas to test
 
 # <h3>Contribution</h3>
 
